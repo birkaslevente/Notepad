@@ -1,0 +1,4 @@
+body {
+    background-image: url('note.png');
+    background-size: cover; /* Azért, hogy a kép teljesen kitöltse a háttérteret */
+}
