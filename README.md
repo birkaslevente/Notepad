@@ -5,6 +5,6 @@ Running: run the main.py file
 
 Requirements:
 
-flask
+flask\n
 Flask-SQLAlchemy
 flask-login
