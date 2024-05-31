@@ -9,4 +9,4 @@ Flask-SQLAlchemy,
 flask-login
 
 ***
-https://github.com/birkaslevente/Notepad/wiki
+[Dokumentáció](https://github.com/birkaslevente/Notepad/wiki)
