@@ -7,3 +7,6 @@ Requirements:
 flask, 
 Flask-SQLAlchemy, 
 flask-login
+
+***
+https://github.com/birkaslevente/Notepad/wiki
